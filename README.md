@@ -1,6 +1,6 @@
-## Bem vindo ao perfil do Goleiro Bruno 👋
+## Bem vindo ao perfil do Nicolas 👋
 
-- Meu nome é Goleiro Bruno
+- Meu nome é Nicolas
 
 - Estou estudando o Alura 
 - Estou me desenvolvendo na linguagem JavaScript 
@@ -8,5 +8,5 @@
 
 
 ## Você pode entrar em contato comigo por:
--GoleiroBruno@gmail.com
+-nicolasrdaniel@gmail.com
 
